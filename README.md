@@ -2,13 +2,12 @@
 
 These are two of the Baselines of the Baidu activity prediction project. The project structure is explained as follows:
 
-* data: Source data and processed data
-* data_pre_process: Preprocess the source data
-
-* DataLoader: Responsible for data loading and fine-grained processing
-* Model:Baseline model
-* config: Model parameters
-* main.py and run.py: Model train and test
+* **data**: Store source data and processed data
+* **data_pre_process**: Preprocess the source data
+* **DataLoader**: Responsible for data loading and fine-grained processing
+* **Model**: Baseline model
+* **config**: Model parameters
+* **main.py** and **run.py**: Model train and test
 
 ## Environment Create
 
